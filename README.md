@@ -9,6 +9,7 @@ For developers, see Squid::BlogParser.
 ## Overview
 
 This project provides class to parse Squid's binary log file data.
+The Squid's native log file format is described here http://wiki.squid-cache.org/Features/LogFormat.
 
 Example code (standalone):
 
