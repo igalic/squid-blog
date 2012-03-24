@@ -1,1 +1,8 @@
 */.*.swp
+/.buildpath
+/.project
+/.loadpath
+*.rbc
+core
+*.gem
+/.settings
